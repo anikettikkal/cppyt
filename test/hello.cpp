@@ -1,6 +1,7 @@
 using namespace std;
 #include<iostream>
-main()
+int main()
 {
     cout<<"hello chai from Aniket";
+    return 0;
 }
